@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hide&Seek/Scenes/HS_Menu.unity
+    guid: fa8fe3be7dc1f334c88b96019dff0f7f
+  - enabled: 1
+    path: Assets/Hide&Seek/Scenes/HS_CreateGame.unity
+    guid: 68a4c037ef7ed5d4eb972c1082367ed0
+  - enabled: 1
+    path: Assets/Hide&Seek/Scenes/HS_JoinGame.unity
+    guid: d93710e8d69f0dd4f9b6de2b51f8a75b
+  - enabled: 1
+    path: Assets/Hide&Seek/Scenes/HS_WaitingRoom.unity
+    guid: bf31e51e74504df47af7a72de4caadd6
+  - enabled: 1
+    path: Assets/Hide&Seek/Scenes/HS_Game.unity
+    guid: 895adec746e15a94ebbe8ce097fbac28
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
