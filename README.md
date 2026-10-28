@@ -68,11 +68,11 @@ Resum:
 ## Protocol i dades
 
 - **Lobby**: missatges de text + missatge de PlayerInfo (binari amb type byte).
-- **Gameplay**: tot en UDP binari amb `GameMsgType`:
-  - `Hello`
-  - `Welcome`
-  - `Input`
-  - `Snapshot`
+- **Gameplay**: tot en UDP binari amb GameMsgType:
+  - Hello
+  - Welcome
+  - Input
+  - Snapshot
 
 ---
 
